@@ -1,9 +1,5 @@
 # Node modules folder
-
-# dependencies
-/*/node_modules
-/.pnp
-.pnp.js
+node_modules/
 
 # Logs
 logs
