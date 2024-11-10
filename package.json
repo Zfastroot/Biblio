@@ -14,7 +14,8 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^4.21.1",
-    "express-ejs-layouts": "^2.5.1"
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.8.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
